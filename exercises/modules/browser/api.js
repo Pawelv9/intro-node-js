@@ -15,3 +15,4 @@ window.App.getPostsForUser = (userId, cb) => {
     cb(posts)
   }, 150)
 }
+
